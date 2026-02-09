@@ -14,4 +14,7 @@ function App() {
     </>
   )
 }
+// O/p
+    //  Runs on every render that happens  On mount run 
+    //4 Runs on every render that happens then run on every re-render
 export default App;
